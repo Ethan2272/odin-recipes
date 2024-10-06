@@ -1,0 +1,1 @@
+Project: Create a basic recipe site with a home index page and several recipe pages.
