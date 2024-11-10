@@ -1,22 +1,40 @@
 body {
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(26, 26, 26);
     color: rgb(140, 176, 189);
     font-size: 20px;
+    margin: 0;
+}
+
+#mainContent {
+    margin: auto 650px;
+    background-color: rgb(36, 36, 36);
+    min-height: 99vh;
+    padding: 5px 60px;
+}
+
+img {
+    display:block;
+    margin-inline: auto;
+}
+
+h1, h3 {
+    text-align: center;
 }
 
 h1 {
     font-family: fantasy;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 li{
+    font-size: 25px;
     margin: 10px;
 }
